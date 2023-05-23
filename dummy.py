@@ -1,0 +1,1 @@
+print('This is dummy package v1.0.0')
