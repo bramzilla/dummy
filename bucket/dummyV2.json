@@ -1,6 +1,6 @@
 {
     "version": "2.0",
-    "url": "https://github.com/bramzilla/dummy/blob/main/dummyV2.exe",
+    "url": "https://github.com/bramzilla/dummy/blob/main/bucket/dummyV2.exe",
     "bin": "dummyV2.exe",
     "checksum": "sha256:26d3d596858181254802694a11df4521ed456f4ab528b7c3efa897fc1d2d190b",
     "homepage": "https://github.com/bramzilla/dummy",
