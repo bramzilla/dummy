@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "url": "https://example.com/path/to/my_script.exe",
+    "bin": "my_script.exe",
+    "checksum": "sha256:abcd1234",
+    "homepage": "https://example.com/my_script",
+    "license": "MIT",
+    "description": "My Script description"
+}
