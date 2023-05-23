@@ -2,7 +2,7 @@
     "version": "1.0",
     "url": "https://github.com/bramzilla/dummy/blob/main/dist/dummy.exe",
     "bin": "dummy.exe",
-    "checksum": "sha256:9e5a8f568a0401535849717a89e5a563eb4ffff976fcc354e65ccb82c5864448",
+    "checksum": "sha256:5e5da4319391c3f4085107717291d9c345a2f7170028ef61ec430b8d4edfb7a9",
     "homepage": "https://github.com/bramzilla/dummy",
     "license": "MIT",
     "description": "A dummy package for testing"
